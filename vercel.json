@@ -2,7 +2,7 @@
   "version": 2,
   "functions": {
     "server.js": {
-      "runtime": "nodejs18.x",
+      "runtime": "nodejs21.5.0",
       "maxDuration": 60
     }
   },
